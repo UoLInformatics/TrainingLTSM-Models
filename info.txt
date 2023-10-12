@@ -1,0 +1,3 @@
+more epoch = more reliable results
+more temperature = more creative
+less temperature = more precise
